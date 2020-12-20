@@ -1,0 +1,2 @@
+D:\64bit\lab7\Debug\lab7.exe
+D:\64bit\lab7\Debug\lab7.pdb
