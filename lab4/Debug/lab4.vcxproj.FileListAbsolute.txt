@@ -1,2 +1,0 @@
-D:\64bit\lab4\Debug\lab4.exe
-D:\64bit\lab4\Debug\lab4.pdb
