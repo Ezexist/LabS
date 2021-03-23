@@ -1,0 +1,2 @@
+D:\64bit\lab12\Debug\lab12.exe
+D:\64bit\lab12\Debug\lab12.pdb
